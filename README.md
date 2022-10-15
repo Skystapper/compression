@@ -13,4 +13,4 @@
 - Its Running Without Db so Block /ban /Broadcast Feature is currently Not available.
 
 ### Fork Repo Then click on below button of ur fork repo.  
-[![Deploy](https://https://github.com/Skystapper/compression)
+[![Deploy](https://https://github.com/Skystapper/compression)]
